@@ -1,0 +1,53 @@
+commit 6e007b704bc45a72f538a96dedcbdfab0eb30634
+Author: Your Name <you@example.com>
+Date:   Tue Mar 12 11:41:10 2024 -0600
+
+    Agregando materia 6
+
+commit 5617bc4b860de58b41b3541e3db969ffeb98e3c3
+Author: Your Name <you@example.com>
+Date:   Tue Mar 12 11:37:54 2024 -0600
+
+    Agrgando materia 5
+
+commit 740d1214dab4f78334ce4f53c3f1414062283f55
+Author: Your Name <you@example.com>
+Date:   Tue Mar 12 11:31:36 2024 -0600
+
+    Agregando materia 4
+
+commit c9a9b6e01c7cfad7e9d68fd45a241ef50fa4bf30
+Author: Your Name <you@example.com>
+Date:   Tue Mar 12 11:26:37 2024 -0600
+
+    modificando materia 3
+
+commit f5fbcf5733da80a65e35a59fffd09d90109d1c8e
+Author: Your Name <you@example.com>
+Date:   Tue Mar 12 11:21:40 2024 -0600
+
+    Agregando materia 3
+
+commit 07ce6102ab56dc609b7574606b0a60a4505240fd
+Author: Your Name <you@example.com>
+Date:   Tue Mar 12 11:03:24 2024 -0600
+
+    Agregando materia 2
+
+commit 4e3c209d15a8292a47002f2753efea3b45adebd0
+Author: Your Name <you@example.com>
+Date:   Tue Mar 12 10:54:52 2024 -0600
+
+    Agregando materia 1
+
+commit 05b40a3d5570a648c90ddef0004d90ea67ee6e00
+Author: Your Name <you@example.com>
+Date:   Tue Mar 12 10:36:52 2024 -0600
+
+    r
+
+commit fa7ea9a805dfe10bc0f01e7f436ec928eb167f16
+Author: Your Name <you@example.com>
+Date:   Tue Mar 12 10:31:46 2024 -0600
+
+    first commit
